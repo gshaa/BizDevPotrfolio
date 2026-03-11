@@ -1,2 +1,2 @@
 # BizDevPotrfolio
-https://gshaa.github.io/BizDevPotrfolio/#about
+https://gshaa.github.io/BizDevPotrfolio
